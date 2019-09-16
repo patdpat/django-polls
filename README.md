@@ -18,9 +18,11 @@ The application requires
 **1. Install Python.**
 
 -**Python** (v.3.6.6 or newer)
-The official download site: https://www.python.org/downloads/
+
+    The official download site: https://www.python.org/downloads/
 
 **2. Install Python Add-On Modules.**
 
 -**Add-On Modules**
-Check [requirements.txt](requirements.txt) Please make sure to install everything.
+
+    Check [requirements.txt](requirements.txt) Please make sure to install everything.
