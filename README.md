@@ -11,22 +11,14 @@ The application requires
 
 **Django** (v 2.1.2 or newer)
 
-**Python Add-On Modules** see [requirements.txt](requirements.txt)
-
+**Python Add-On Modules** on [requirements.txt](requirements.txt)
 
 ## Installation
 
 **1. Install Python.**
 
-- **Python** (v.3.6.6 or newer)
-    - The official download site: https://www.python.org/downloads/
+-**Python** (v.3.6.6 or newer) - The official download site: https://www.python.org/downloads/
 
 **2. Install Python Add-On Modules.**
- 
-- **Add-On Modules**
-    - see [requirements.txt](requirements.txt)
 
-
-
-
-
+-**Add-On Modules** - Check [requirements.txt](requirements.txt) Please make sure to install everything.
