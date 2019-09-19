@@ -2,8 +2,8 @@
 
 Sidtipat 6110546046
 
-This is a web application create with Django tutorials to create polls that can vote, keep track of the number of votes, and display a result.
-[source](https://docs.djangoproject.com/en/2.2/intro/)
+Created by
+[Djabgo Tutorial](https://docs.djangoproject.com/en/2.2/intro/)
 
 ## Requirements
 
@@ -37,3 +37,7 @@ The official download site: https://www.python.org/downloads/
 3.  Run Server
 
         python3 manage.py runserver
+
+4.  Redirect to site from your favorite browser
+
+        http://localhost:8000/polls/
