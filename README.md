@@ -3,7 +3,7 @@
 Sidtipat 6110546046
 
 Created by
-[Djabgo Tutorial](https://docs.djangoproject.com/en/2.2/intro/)
+[Django Tutorial](https://docs.djangoproject.com/en/2.2/intro/)
 
 ## Requirements
 
