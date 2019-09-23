@@ -25,6 +25,10 @@ The official download site: https://www.python.org/downloads/
 
 **2. To Run This Project**
 
+Here's how to run for linux/ MacOS
+
+For Window user go get Macintosh, or unix-like machine from your local computer store.
+
 1.  Clone This Repository
 
         git clone https://github.com/patdpat/django-polls.git
@@ -34,14 +38,25 @@ The official download site: https://www.python.org/downloads/
 
         pip3 install -r requirements.txt
 
-3.  Migrate
+3.  Create **.env** file
+
+        vi .env
+
+    Learn Vim: https://scotch.iotutorials/getting-started-with-vim-an-interactive-guide
+
+    Then add these to your **.env** file
+
+        SECRET_KEY = 'whatever_string_you_want'
+        DEBUG = True
+
+4.  Migrate
 
         python3 mange.py migrate
 
-4.  Run Server
+5.  Run Server
 
         python3 manage.py runserver
 
-5.  Redirect to the site from your favorite browser
+6.  Redirect to the site from your favorite browser
 
-        http://localhost:8000/polls/
+        http://localhost:8000/
