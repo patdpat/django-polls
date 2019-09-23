@@ -34,10 +34,14 @@ The official download site: https://www.python.org/downloads/
 
         pip3 install -r requirements.txt
 
-3.  Run Server
+3.  Migrate
+
+        python3 mange.py migrate
+
+4.  Run Server
 
         python3 manage.py runserver
 
-4.  Redirect to site from your favorite browser
+5.  Redirect to the site from your favorite browser
 
         http://localhost:8000/polls/
