@@ -55,7 +55,7 @@ Just Kidding :P
 
 4.  Migrate
 
-        python3 mange.py migrate
+        python3 manage.py migrate
 
 5.  Run Server
 
