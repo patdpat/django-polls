@@ -9,9 +9,9 @@ Created by
 
 The application requires
 
-**Python** (v.3.6.6 or newer)
+**Python** (v.3.6 or newer)
 
-**Django** (v 2.2.5 or newer)
+**Django** (v 2.2 or newer)
 
 **Python Add-On Modules** on [requirements.txt](requirements.txt)
 
@@ -19,7 +19,7 @@ The application requires
 
 **1. Install Python.**
 
--**Python** (v.3.6.6 or newer)
+-**Python** (v.3.6 or newer)
 
 The official download site: https://www.python.org/downloads/
 
@@ -28,6 +28,10 @@ The official download site: https://www.python.org/downloads/
 Here's how to run for linux/ MacOS
 
 For Window user go get Macintosh, or unix-like machine from your local computer store.
+
+Just Kidding :P
+
+- use `python manage.py migrate`at step 4. then `python manage.py runserver`at step 5.
 
 1.  Clone This Repository
 
