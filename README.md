@@ -27,12 +27,6 @@ The official download site: https://www.python.org/downloads/
 
 Here's how to run for linux/ MacOS
 
-For Window user go get Macintosh, or unix-like machine from your local computer store.
-
-Just Kidding :P
-
-- use `python manage.py migrate`at step 4. then `python manage.py runserver`at step 5.
-
 1.  Clone This Repository
 
         git clone https://github.com/patdpat/django-polls.git
