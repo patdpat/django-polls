@@ -64,3 +64,13 @@ Just Kidding :P
 6.  Redirect to the site from your favorite browser
 
         http://localhost:8000/
+
+7.  You'll find out that there's no polls avaibles.
+
+    You'll have to add polls question and choices first
+
+        python3 manage.py createsuperuser
+
+    Redirect to admin panel
+
+        http://localhost:8000/admin
